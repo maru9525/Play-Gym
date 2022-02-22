@@ -1,10 +1,10 @@
 ## 👨‍👨‍👦‍👦Member
 
-| Name     | 여정동 | 김동윤 | 박주영 | 문영화 | 최정훈 |
-| -------- | ------ | ------ | ------ | ------ | ------ |
-| Profile  |        |        |        |        |        |
-| Position | BE     | FE     | FE     | BE     | BE     |
-| Git      |        |        |        |        |        |
+| Name     | 여정동  | 김동윤  | 박주영  | 문영화  | 최정훈  |
+| -------- | ---- | ---- | ---- | ---- | ---- |
+| Profile  |      |      |      |      |      |
+| Position | BE   | FE   | FE   | BE   | BE   |
+| Git      |      |      |      |      |      |
 
 ## 🤩Service
 
@@ -12,11 +12,11 @@
 
 #### 무궁화 꽃이 피었습니다
 
-![무꽃피 성공](README.assets/무꽃피 성공.gif)
+![무꽃피성공](README.assets/무꽃피성공.gif)
 
 #### 나 처럼 해봐요
 
-![나처럼 해봐요](README.assets/나처럼 해봐요.gif)
+![나처럼해봐요](README.assets/나처럼해봐요.gif)
 
 
 
@@ -38,7 +38,7 @@
 
 #### UPDATE & DELETE
 
-![회원정보 수정](README.assets/회원정보 수정.gif)
+![회원정보수정](README.assets/회원정보수정.gif)
 
 
 
@@ -48,7 +48,7 @@
 
 #### Player ADD
 
-![플레이어 추가](README.assets/플레이어 추가.gif)
+![플레이어추가](README.assets/플레이어추가.gif)
 
 #### Player Detail
 
@@ -56,9 +56,7 @@
 
 #### COMPENSATION
 
-![자녀 마이페이지](README.assets/자녀 마이페이지.gif)
-
-
+![자녀마이페이지](README.assets/자녀마이페이지.gif)
 
 
 
@@ -86,10 +84,10 @@
 
 ## 🖥️ EC2 포트
 
-| Port    | 이름                          |
+| Port    | 이름                            |
 | ------- | ----------------------------- |
 | 443     | HTTPS                         |
-| 80      | HTTP - HTTPS로 리다이렉트     |
+| 80      | HTTP - HTTPS로 리다이렉트           |
 | 3306    | MYSQL                         |
 | 9090    | Jenkins                       |
 | 8080    | Spring boot Docker Container  |
